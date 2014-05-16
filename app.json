@@ -1,0 +1,11 @@
+{
+  "name": "Helios",
+  "description": "Helios is an open-source framework that provides essential backend services for iOS apps, from data synchronization and user accounts to push notifications, in-app purchases, and passbook integration.",
+  "website": "http://helios.io/",
+  "logo": "http://f.cl.ly/items/0J1L1s0Z191O2V063x2f/helios.png",
+  "keywords": [
+    "mobile",
+    "backend"
+  ],
+  "addons": ["heroku-postgresql:hobby-dev", "papertrail"]
+}
